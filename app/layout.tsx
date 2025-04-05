@@ -12,9 +12,9 @@ export default function RootLayout({
         <div>
           {children}
         </div>
-        <footer className='py-10 bg-gray-300 text-center'>
+        {/* <footer className='py-10 bg-gray-300 text-center'>
           This is the footer
-        </footer>
+        </footer> */}
       </body>
     </html>
   );
